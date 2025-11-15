@@ -38,7 +38,7 @@ This repository is a submission-ready package for an agentic pipeline assignment
 - `data/prices.csv` — CSV acting as the tool backing store
 - `prompts/` — prompt templates (v1, v2, v3)
 
-## Design decisions (short)
+## Design decisions 
 - FAISS is supported but optional (Windows may not install native faiss); pipeline falls back to keyword retriever.
 - Prompt versions are stored under `prompts/` and used by the Reasoner; v1 is simple answer-from-KB, v2 is planner JSON, v3 is strict tool-call JSON.
 - Actor tool is a CSV lookup validated with Pydantic; a FastAPI wrapper is included as `src/api_actor.py` to demo REST API behavior.
