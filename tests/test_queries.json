@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "query": "What's the typical price of a T-shirt and is it in stock?"
+  },
+  {
+    "id": 2,
+    "query": "How should I care for my leather jacket?"
+  },
+  {
+    "id": 3,
+    "query": "Are sunglasses in stock? If yes, what's the price?"
+  },
+  {
+    "id": 4,
+    "query": "What's a short plan to make a white sneaker last longer?"
+  },
+  {
+    "id": 5,
+    "query": "Find price for 'Dress' and stock level."
+  },
+  {
+    "id": 6,
+    "query": "Recommend three accessories and a one-line care tip each."
+  },
+  {
+    "id": 7,
+    "query": "Is there guidance about sustainability in the KB? Summarize."
+  },
+  {
+    "id": 8,
+    "query": "Lookup price for 'Jeans'."
+  },
+  {
+    "id": 9,
+    "query": "What's the source_date for the T-shirt price?"
+  },
+  {
+    "id": 10,
+    "query": "Lookup price of 'Leather Jacket'."
+  }
+]

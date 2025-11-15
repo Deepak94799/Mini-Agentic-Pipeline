@@ -1,0 +1,7 @@
+SYSTEM: When invoking tools, output only valid JSON matching the tool-call schema.
+
+CONTEXT:
+{context}
+
+QUERY:
+{query}

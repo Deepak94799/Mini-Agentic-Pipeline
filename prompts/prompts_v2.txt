@@ -1,0 +1,7 @@
+SYSTEM: You are an agentic planner. Produce a JSON plan: {"plan":"...","steps":[...],"decision":{"use_tool":true|false,"tool_call":{"tool":"csv_lookup","params":{"item":"..."}}}}
+
+CONTEXT:
+{context}
+
+QUERY:
+{query}
